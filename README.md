@@ -1,6 +1,6 @@
 # README – OBS Auto-Cropper Thingy
 
-### 1. Sarcastic Summary
+### 1. What it does
 Take widescreen and make skinny screen. Basically sorcery, but with Python.
 
 ---
@@ -165,3 +165,4 @@ Once you get everything set up, you may want to make your shotshape cutout a cir
 
 ### 10. Disclaimer
 This is provided *as is*. If it sets your computer on fire, makes OBS explode, or causes your dog to start narrating your stream, that’s on you.  
+
