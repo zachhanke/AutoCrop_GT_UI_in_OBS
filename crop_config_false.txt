@@ -1,0 +1,8 @@
+# Crop configuration file
+# Format: x,y,width,height,output_filename[,image_source_name]
+# Lines starting with # are comments and will be ignored
+# Blank lines are also ignored
+
+### This is where I define the location and size of the shot shape!
+# Shot Shape
+1425,864,168,187,live_shotshape.png,shot_shape

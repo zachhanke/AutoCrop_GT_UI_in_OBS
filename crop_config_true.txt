@@ -1,0 +1,20 @@
+# Crop configuration file
+# Format: x,y,width,height,output_filename[,image_source_name]
+# Lines starting with # are comments and will be ignored
+# Blank lines are also ignored
+
+# Example crops:
+# Score display in top right
+279,44,355,78,live_score.png,score
+
+# Hole Number
+1644,44,197,67,live_holenum.png,hole_number
+
+# Wind/Club Panel  
+1644,704,197,347,live_wind.png,wind_club
+
+# Mini-map
+279,550,190,470,live_minimap.png,mini_map
+
+# Green-slope
+279,750,190,230,live_green.png,mini_map_slope
